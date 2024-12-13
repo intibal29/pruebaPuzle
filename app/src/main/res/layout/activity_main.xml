@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.example.puzzlegame.MainActivity">
+    tools:context="es.icjardin.puzzle.MainActivity">
 
     <!-- GridLayout para el tablero del puzzle 4x4 -->
     <GridLayout
